@@ -1,0 +1,142 @@
+@media screen  and (min-width : 1000px){
+
+.ism{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px -3px;
+
+    border-radius: 100px;
+}
+
+.isma{
+
+    color: black;
+}
+
+.og{
+    font-size: 20px;
+color: aqua;
+
+}
+
+.ogh{
+    color: blue;
+    
+    }
+
+    .oghl{
+        color: red;
+        
+        }
+
+        .ismai{
+            width: 160px;
+    height: 160px;
+        }
+
+        .o{
+            color: yellow;
+        }
+
+        .is{
+            color: rgb(59, 43, 75);
+            font-size: 20px;
+        }
+    }
+
+
+    @media screen  and (max-width : 1000px ) and (min-width : 400px){
+        
+        .ism{
+            width: 133px;
+            height: 133px;
+            box-shadow: 10px 10px 10px -3px;
+        
+            border-radius: 100px;
+        }
+        
+        .isma{
+        
+            color: rgb(212, 134, 134);
+        }
+        
+        .og{
+            font-size: 14px;
+        color: rgb(91, 241, 148);
+        
+        }
+        
+        .ogh{
+            font-size: 14px;
+            color: rgb(107, 177, 41);
+            
+            }
+        
+            .oghl{
+                color: rgb(34, 44, 7);
+                font-size: 14px;
+                }
+        
+                .ismai{
+                    width: 120px;
+                 height: 120px;
+                }
+        
+                
+                
+                .is{
+                    color: rgb(22, 138, 57);
+                    font-size: 14px;
+                }
+            }
+
+        
+       @media screen  and (max-width : 400px){
+        
+        .ism{
+            width: 100px;
+            height: 100px;
+            box-shadow: 10px 10px 10px -3px;
+        
+            border-radius: 100px;
+        }
+        
+        .isma{
+        
+            color: rgb(131, 196, 26);
+        }
+        
+        .og{
+            font-size: 10px;
+        color: rgb(0, 102, 255);
+        
+        }
+        
+        .ogh{
+            font-size: 10px;
+            color: rgb(41, 61, 22);
+            
+            }
+        
+            .oghl{
+                color: rgb(110, 13, 190);
+                font-size: 10px;
+                }
+        
+                .ismai{
+                    width: 80px;
+                 height: 80px;
+                }
+        
+                .o{
+                    color: rgb(196, 94, 26);
+                    font-size: 10px;
+                }
+                .is{
+                    color: rgb(75, 26, 87);
+                    font-size: 6px;
+                }
+            }
+
+
+           
